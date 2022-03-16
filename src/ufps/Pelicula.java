@@ -3,7 +3,7 @@ package ufps;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Pelicula {
+public class Pelicula {    
 
 	private String nombre;
 	private int anioPresentacion;
